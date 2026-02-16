@@ -21,6 +21,7 @@ Proven Results:
 Backtesting strategies across multiple assets, timeframes, and market conditions with institutional-grade rigor.
 🤖 Algorithm Development
 Building MT5 Expert Advisors and Python-based trading systems for automated execution.
+
 Technology Stack
 Languages & Frameworks:
 ·	Python 3.x
@@ -48,14 +49,14 @@ Plug-and-play system that can optimize ANY trading strategy (Python or MT5 EA) b
 ·	Generating professional reports
 
 
-3. Pending Reversal Strategy
-Bollinger Band bounce strategy with EMA trend filtering
+2. Pending Reversal Strategy
+Optimized Bollinger Band bounce strategy with EMA trend filtering
 ·	Best Performance: +4,428% on NAS100 H1
 ·	Stress Test: Maintained +4,041% under degraded conditions
 ·	Prop-Firm Ready: Works on major indices
 
 
-5. Range Strategy
+3. Range Strategy
 Optimized breakout system with ATR-based risk management
 ·	Best Performance: +8,792% on GER40 H1
 ·	Multi-Asset: Profitable on indices, crypto, and metals
