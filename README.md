@@ -47,17 +47,20 @@ Plug-and-play system that can optimize ANY trading strategy (Python or MT5 EA) b
 ·	Optimizing for risk-adjusted returns
 ·	Generating professional reports
 
+
 3. Pending Reversal Strategy
 Bollinger Band bounce strategy with EMA trend filtering
 ·	Best Performance: +4,428% on NAS100 H1
 ·	Stress Test: Maintained +4,041% under degraded conditions
 ·	Prop-Firm Ready: Works on major indices
-4. Range Strategy
-5. 
+
+
+5. Range Strategy
 Optimized breakout system with ATR-based risk management
 ·	Best Performance: +8,792% on GER40 H1
 ·	Multi-Asset: Profitable on indices, crypto, and metals
 ·	Robust: Minimal performance degradation under stress
+
 
 Services Offered
 
@@ -68,12 +71,14 @@ For Prop Trading Firms
 ·	Risk management system design
 ·	EA development for automated trading
 
+
 For Hedge Funds
 
 ·	Quantitative research and analysis
 ·	Strategy backtesting and validation
 ·	Performance attribution analysis
 ·	Custom algorithm development
+
 
 For Individual Traders
 
@@ -82,11 +87,14 @@ For Individual Traders
 ·	Portfolio analysis
 ·	Trading system consultation
 
+
 Performance Track Record
+
 Strategy Optimization:
 ·	Daily Breakout: -$463K → +$603K (+$1.06M improvement)
 ·	Success Rate: 13 profitable combinations across 6 strategies tested
 ·	Stress Test Survival: 100% of profitable strategies remain positive under stress
+
 Multi-Asset Testing:
 ·	Tested: 15+ assets across forex, indices, crypto, and metals
 ·	Timeframes: M5, M15, H1, H4, D1
@@ -117,10 +125,12 @@ o	Professional reporting
 o	Implementation guidance
 o	Ongoing monitoring recommendations
 
+
 Contact
 Brent Robertson
 Chief Strategy Architect
 📧 Email: pythology@outlook.com
+
 
 Case Studies
 Case Study 1: Daily Breakout Transformation
@@ -132,21 +142,25 @@ Analysis:
 ·	Found fixed TP/SL didn't scale with volatility
 ·	Losing trades averaged 95%+ hit stop loss rate
 
+
 Solution:
 ·	Raised ADX threshold from 25 to 35 (stronger trends only)
 ·	Implemented ATR-based stops (2x ATR) instead of fixed points
 ·	Dynamic take profit at 4x ATR for optimal risk/reward
+
 
 Results:
 ·	Original: -$463,072 (losing)
 ·	Optimized: +$603,409 (winning)
 ·	Improvement: +$1,066,481
 
+
 Assets Transformed:
 ·	GER40: -$91K → +$250K
 ·	NAS100: -$99K → +$146K
 ·	XAUUSD: -$101K → +$110K
 ·	BTCUSD: -$100K → +$106K
+
 
 
 Why Pythology?
