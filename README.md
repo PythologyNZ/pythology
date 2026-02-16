@@ -39,6 +39,8 @@ Specialties:
 ·	Volatility-based position sizing
 ·	Risk-adjusted performance optimization
 
+
+
 Featured Projects
 
 1. Universal Strategy Optimizer
@@ -49,11 +51,13 @@ Plug-and-play system that can optimize ANY trading strategy (Python or MT5 EA) b
 ·	Generating professional reports
 
 
+
 2. Pending Reversal Strategy
 Optimized Bollinger Band bounce strategy with EMA trend filtering
 ·	Best Performance: +4,428% on NAS100 H1
 ·	Stress Test: Maintained +4,041% under degraded conditions
 ·	Prop-Firm Ready: Works on major indices
+
 
 
 3. Range Strategy
@@ -63,30 +67,31 @@ Optimized breakout system with ATR-based risk management
 ·	Robust: Minimal performance degradation under stress
 
 
+
 Services Offered
 
 For Prop Trading Firms
-
 ·	Strategy development and optimization
 ·	Multi-asset portfolio construction
 ·	Risk management system design
 ·	EA development for automated trading
 
 
-For Hedge Funds
 
+For Hedge Funds
 ·	Quantitative research and analysis
 ·	Strategy backtesting and validation
 ·	Performance attribution analysis
 ·	Custom algorithm development
 
 
-For Individual Traders
 
+For Individual Traders
 ·	Strategy optimization services
 ·	EA development and customization
 ·	Portfolio analysis
 ·	Trading system consultation
+
 
 
 Performance Track Record
@@ -96,11 +101,15 @@ Strategy Optimization:
 ·	Success Rate: 13 profitable combinations across 6 strategies tested
 ·	Stress Test Survival: 100% of profitable strategies remain positive under stress
 
+
+
 Multi-Asset Testing:
 ·	Tested: 15+ assets across forex, indices, crypto, and metals
 ·	Timeframes: M5, M15, H1, H4, D1
 ·	Total Trades Analyzed: 50,000+
 ·	Backtesting Period: 4-8 years per asset
+
+
 
 Methodology
 
@@ -125,6 +134,8 @@ o	Forward testing on demo accounts
 o	Professional reporting
 o	Implementation guidance
 o	Ongoing monitoring recommendations
+
+
 
 
 Contact
