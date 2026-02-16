@@ -37,39 +37,51 @@ Specialties:
 ·	Mean reversion strategies
 ·	Volatility-based position sizing
 ·	Risk-adjusted performance optimization
+
 Featured Projects
+
 1. Universal Strategy Optimizer
 Plug-and-play system that can optimize ANY trading strategy (Python or MT5 EA) by:
 ·	Analyzing failure patterns
 ·	Testing parameter combinations
 ·	Optimizing for risk-adjusted returns
 ·	Generating professional reports
-2. Pending Reversal Strategy
+
+3. Pending Reversal Strategy
 Bollinger Band bounce strategy with EMA trend filtering
 ·	Best Performance: +4,428% on NAS100 H1
 ·	Stress Test: Maintained +4,041% under degraded conditions
 ·	Prop-Firm Ready: Works on major indices
-3. Range Strategy
+4. Range Strategy
+5. 
 Optimized breakout system with ATR-based risk management
 ·	Best Performance: +8,792% on GER40 H1
 ·	Multi-Asset: Profitable on indices, crypto, and metals
 ·	Robust: Minimal performance degradation under stress
+
 Services Offered
+
 For Prop Trading Firms
+
 ·	Strategy development and optimization
 ·	Multi-asset portfolio construction
 ·	Risk management system design
 ·	EA development for automated trading
+
 For Hedge Funds
+
 ·	Quantitative research and analysis
 ·	Strategy backtesting and validation
 ·	Performance attribution analysis
 ·	Custom algorithm development
+
 For Individual Traders
+
 ·	Strategy optimization services
 ·	EA development and customization
 ·	Portfolio analysis
 ·	Trading system consultation
+
 Performance Track Record
 Strategy Optimization:
 ·	Daily Breakout: -$463K → +$603K (+$1.06M improvement)
@@ -80,7 +92,9 @@ Multi-Asset Testing:
 ·	Timeframes: M5, M15, H1, H4, D1
 ·	Total Trades Analyzed: 50,000+
 ·	Backtesting Period: 4-8 years per asset
+
 Methodology
+
 Our optimization process follows a rigorous scientific approach:
 1.	Analysis Phase
 o	Deep dive into existing strategy performance
@@ -102,25 +116,32 @@ o	Forward testing on demo accounts
 o	Professional reporting
 o	Implementation guidance
 o	Ongoing monitoring recommendations
+
 Contact
 Brent Robertson
-Founder & Chief Strategy Architect
+Chief Strategy Architect
 📧 Email: pythology@outlook.com
+
 Case Studies
 Case Study 1: Daily Breakout Transformation
+
 Challenge: Client's D1 breakout strategy losing across all major assets (-$463K total)
+
 Analysis:
 ·	Identified weak trend filter (ADX threshold too low)
 ·	Found fixed TP/SL didn't scale with volatility
 ·	Losing trades averaged 95%+ hit stop loss rate
+
 Solution:
 ·	Raised ADX threshold from 25 to 35 (stronger trends only)
 ·	Implemented ATR-based stops (2x ATR) instead of fixed points
 ·	Dynamic take profit at 4x ATR for optimal risk/reward
+
 Results:
 ·	Original: -$463,072 (losing)
 ·	Optimized: +$603,409 (winning)
 ·	Improvement: +$1,066,481
+
 Assets Transformed:
 ·	GER40: -$91K → +$250K
 ·	NAS100: -$99K → +$146K
@@ -129,7 +150,7 @@ Assets Transformed:
 
 
 Why Pythology?
-✅ Proven Track Record - $1M+ in documented strategy improvements
+ ✅ Proven Track Record - $1M+ in documented strategy improvements
  ✅ Scientific Approach - Rigorous testing and validation
  ✅ Multi-Asset Expertise - Forex, indices, crypto, metals
  ✅ Practical Solutions - Real strategies for real markets
@@ -138,6 +159,7 @@ Why Pythology?
 
 
 Philosophy
+
 "Every failing strategy contains a winning strategy waiting to be discovered. Through systematic analysis and optimization, we transform underperformance into excellence."
 We don't just backtest random ideas. We apply scientific methodology to:
 ·	Understand WHY strategies fail
