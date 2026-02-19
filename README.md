@@ -41,6 +41,17 @@ Specialties:
 
 
 
+## Machine Learning & AI
+
+Advanced neural network development for financial prediction:
+
+- **Chimera 2D State Space Model:** Bidirectional LSTM with multi-head attention for market prediction
+- **Transformer Hybrid Model:** Custom Transformer encoder for forex direction forecasting
+
+Full details: [ml-projects/ML_AI_Experience.md](ml-projects/ML_AI_Experience.md)
+
+
+
 Featured Projects
 
 1. Universal Strategy Optimizer
