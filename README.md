@@ -41,6 +41,28 @@ Specialties:
 
 
 
+
+## 🔬 Research Prototypes
+
+### Project 4: Volatility Forecasting Surface ✅ OPERATIONAL
+
+Multi-model ensemble volatility forecasting system using GARCH, EGARCH, GJR-GARCH, and HAR-RV models.
+
+**3D Surface Visualization:**
+
+![Volatility Surface](results/Pythology_Volatility_Surface_3D.png)
+
+**Features:**
+- Real-time volatility forecasts (1h to 48h ahead)
+- Multi-model ensemble for robust predictions
+- Adaptive risk management integration
+- Professional visualizations
+
+**Status:** Prototype complete, ready for production integration
+
+
+
+
 ## Machine Learning & AI
 
 Advanced neural network development for financial prediction:
