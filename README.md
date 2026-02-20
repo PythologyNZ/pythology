@@ -20,6 +20,65 @@ Proven Results:
 
 ## 📊 Research Prototypes - LIVE
 
+
+### USD Strength Index ✅ LIVE
+
+**Real-time composite dollar index from major currency pairs**
+
+Weighted index combining 7 major USD pairs (EURUSD, GBPUSD, USDJPY, USDCAD, USDCHF, AUDUSD, NZDUSD) to track overall USD strength.
+
+**Current State:**
+- Value: 99.35 (Bullish trend)
+- Auto-updates from MT5
+- 20/50 period SMA tracking
+- Rate of change analysis
+
+![USD Strength Index](results/Pythology_USD_Strength_Index.png)
+
+**Code:** [USD Strength Index (Auto-Update)](research-agenda/usd_strength_index_v2_organized.py)
+
+---
+
+### Synthetic FX Generator 🧬 NEW
+
+**Create cross-currency pairs from USD pairs**
+
+Generates 9 synthetic pairs (EURGBP, EURJPY, GBPJPY, etc.) from major USD pairs. Includes arbitrage scanner, correlation matrix, and volatility analysis.
+
+**Features:**
+- Creates pairs that don't exist naturally
+- Arbitrage opportunity detection (found +0.45% on EURGBP, +1.54% on GBPJPY)
+- Correlation analysis across all synthetics
+- Volatility rankings (AUDJPY highest at 12.9%)
+- Real-time synthetic price calculation
+
+![Synthetic FX Dashboard](results/Pythology_Synthetic_FX_Dashboard.png)
+
+**Code:** [Synthetic FX Generator](research-agenda/synthetic_fx_generator.py)
+
+**Application:** Cross-pair trading strategies, arbitrage detection, correlation-based hedging
+
+---
+
+### Real-Time Regime Dashboard 📡 LIVE
+
+**Live market regime monitoring across all trading pairs**
+
+Auto-updating dashboard that monitors ADX values and classifies market regimes (Strong Trend / Ranging / Weak Trend) across all pairs every 5 minutes.
+
+**Features:**
+- Real-time regime detection
+- ADX-based classification
+- Auto-updates every 5 minutes
+- Alerts on regime changes
+- Informs V2.0 EA trading decisions
+
+**Code:** 
+- [Regime Dashboard (Static)](research-agenda/regime_dashboard.py)
+- [Regime Dashboard (Live)](research-agenda/regime_dashboard_live.py)
+
+---
+
 ### Volatility Forecasting Surface ✅ VALIDATED
 
 **24-Hour Forecast Accuracy: 95.2%**
