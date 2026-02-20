@@ -17,6 +17,40 @@ Proven Results:
 ·	Developed strategies with 4,000%+ returns
 ·	Stress-tested across multiple market conditions
 
+
+## 📊 Research Prototypes - LIVE
+
+### Volatility Forecasting Surface ✅ VALIDATED
+
+**24-Hour Forecast Accuracy: 95.2%**
+
+Multi-model GARCH ensemble for real-time volatility prediction across major US stocks.
+
+**Validation Results (Feb 20, 2026):**
+- Apple: 99.9% accuracy
+- Amazon: 97.8% accuracy  
+- Microsoft: 97.2% accuracy
+- Average: 95.2% accuracy
+
+![Yesterday's Forecast](results/Pythology_Stock_Volatility_Heatmap_Feb20.png)
+
+![Validation Results](results/Pythology_Stock_Volatility_Validation_Feb20.png)
+
+**Models Used:**
+- GARCH(1,1)
+- EGARCH (asymmetric)
+- GJR-GARCH (leverage effect)
+- HAR-RV (realized volatility)
+
+**Code:** 
+- [Forecast Generator](research-agenda/stock_volatility_heatmap_bulletproof.py)
+- [Validation Script](research-agenda/volatility_stock_comparison.py)
+
+**Application:** Dynamic stop-loss sizing, position risk management, strategy selection
+
+---
+
+
 📊 Quantitative Research
 Backtesting strategies across multiple assets, timeframes, and market conditions with institutional-grade rigor.
 🤖 Algorithm Development
