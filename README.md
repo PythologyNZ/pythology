@@ -333,4 +333,4 @@ Services available:
 © 2026 Pythology. All Rights Reserved.
 The Science of Algorithmic Trading
 
-
+This project is licensed under CC BY-NC 4.0 — see LICENSE.md for details
