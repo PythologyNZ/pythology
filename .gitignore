@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files
+*.csv
+data/
+
+# MT5 build artifacts
+*.ex5
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files
+*.pth
+*.onnx
+*.h5
+
+# Environment
+.env
+.env.local
