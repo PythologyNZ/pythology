@@ -1,5 +1,5 @@
 🐍 PYTHOLOGY
-The Science of Algorithmic Trading
+The Science of finding structure hidden by chaos
 
 About
 Pythology combines the power of Python programming with rigorous quantitative methodology to create, analyze, and optimize trading strategies with institutional-grade precision.
@@ -331,6 +331,7 @@ Services available:
 ·	Quantitative research
 
 © 2026 Pythology. All Rights Reserved.
-The Science of Algorithmic Trading
+
+The Science of finding structure hidden by chaos
 
 This project is licensed under CC BY-NC 4.0 — see LICENSE.md for details
